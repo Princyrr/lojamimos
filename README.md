@@ -2,7 +2,7 @@
 
 Uma loja virtual completa especializada em roupas infantis, desenvolvida com React no frontend e Node.js/Express no backend, com integração MongoDB e sistemas de pagamento brasileiros.
 
-PAGE: lojamimos.netlify.app
+🔗 **Acesse online:** [lojamimos.netlify.app](https://lojamimos.netlify.app)
 
 ## 🚀 Funcionalidades
 
